@@ -1,6 +1,6 @@
-# Naur
+# Template
 
-Storage for developers ideas and solutions, one of in-house FSD examples
+Template
 
 [![Feature-Sliced Design][shields-fsd-image]](https://feature-sliced.design/)
 
